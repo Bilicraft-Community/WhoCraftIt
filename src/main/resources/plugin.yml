@@ -1,0 +1,9 @@
+name: WhoCraftIt
+version: ${project.version}
+main: com.bilicraft.whocraftit.WhoCraftIt
+api-version: 1.17
+description: 标记谁合成的该物品
+commands:
+  whocraftit:
+    usage: /whocraftit
+    description: 查看该物品是谁使用的
